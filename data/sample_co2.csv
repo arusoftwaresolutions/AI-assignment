@@ -1,0 +1,13 @@
+country,year,gdp_per_capita,population_millions,energy_use_per_capita,renewable_pct,co2_per_capita
+CountryA,2010,12000,5.2,45.0,12,7.8
+CountryA,2015,15000,5.5,48.0,15,8.2
+CountryA,2020,18000,5.8,50.0,20,7.9
+CountryB,2010,3000,22.1,10.0,5,1.8
+CountryB,2015,3500,23.0,12.0,7,2.1
+CountryB,2020,4000,24.5,13.0,10,2.4
+CountryC,2010,8000,12.0,30.0,25,4.0
+CountryC,2015,9000,12.8,32.0,28,4.3
+CountryC,2020,9500,13.3,34.0,35,3.9
+CountryD,2010,2000,60.0,6.0,2,0.9
+CountryD,2015,2200,61.5,7.0,3,1.1
+CountryD,2020,2500,63.0,8.0,4,1.4
