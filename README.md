@@ -1,6 +1,6 @@
 # SDG13 — CO₂ Emissions Forecast MVP
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arusoftwaresolutions/AI-assignment/blob/main/app.py)
+[![View Live](https://img.shields.io/badge/View-Live-brightgreen)](http://co2emissionsforecast.streamlit.app/)
 
 ## Project Overview
 **Goal:** Machine Learning MVP for **UN SDG 13 — Climate Action**
