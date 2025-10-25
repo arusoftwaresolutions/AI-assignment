@@ -43,7 +43,7 @@ def evaluate_model(model, scaler, X_test, y_test):
     Xt = scaler.transform(X_test)
     preds = model.predict(Xt)
     mae = mean_absolute_error(y_test, preds)
-    rmse = mean_squared_error(y_test, preds, squared=False)
+    rmse = np.sqrt(mean_squared_error(y_test, preds))
     r2 = r2_score(y_test, preds)
     return preds, mae, rmse, r2
 
